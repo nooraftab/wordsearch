@@ -36,6 +36,8 @@ Keep going! You can always refer to the table at the bottom to see what you have
 
 1) bunkat's [wordfind game](https://github.com/bunkat/wordfind) was a great resource in helping me get started - while i didn't implement things quite the same way they did, it was a helpful resource nonetheless for figuring out bits and pieces! 
 
-2) [W3Schools](https://www.w3schools.com/) for helping me catch on to the basics of HTML/CSS and JavaScript/JQuery!
+2) [W3Schools](https://www.w3schools.com/) helped me catch on to the basics of HTML/CSS and JavaScript/JQuery and was an all-around very helpful reference!
+
+3) [Jack Harvatt's Moon font](https://www.behance.net/gallery/23468357/www.studentshow.com/gallery/23468357/Moon-Free-Font) was used for the website and game! 
 
 3) Without question, [StackOverflow!](https://stackoverflow.com/)
