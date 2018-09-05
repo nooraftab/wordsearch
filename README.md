@@ -2,7 +2,6 @@
 
 This application allow's one to play a word search (or word find) game in a browser! It was a summer project to teach myself the fundamentals of web development languages like HTML, CSS, and JavaScript, along with a heavy usage of jQuery to handle mouse events (mostly)!
 
-
 # How to use:
 
 ## Setting up
