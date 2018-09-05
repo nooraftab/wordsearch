@@ -38,6 +38,6 @@ Keep going! You can always refer to the table at the bottom to see what you have
 
 2) [W3Schools](https://www.w3schools.com/) helped me catch on to the basics of HTML/CSS and JavaScript/JQuery and was an all-around very helpful reference!
 
-3) [Jack Harvatt's Moon font](https://www.behance.net/gallery/23468357/www.studentshow.com/gallery/23468357/Moon-Free-Font) was used for the website and game! 
+3) [Jack Harvatt's Moon](https://www.behance.net/gallery/23468357/www.studentshow.com/gallery/23468357/Moon-Free-Font) is the font used for the website and game! 
 
 3) Without question, [StackOverflow!](https://stackoverflow.com/)
