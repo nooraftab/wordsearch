@@ -39,6 +39,7 @@ I also used the MVC (Model-View-Controller) design pattern to help give the code
 - A good deal into this project, I realized it would've made more sense to have `WordSearchView` call `WordSearchLogic` for data. When I find time to improve my game, I plan on trying to implement this!
 - The general internet consensus seems to be 'avoid global variables' - I tried to keep this in mind but you'll notice `wordpaths.js` does consist of 3 global objects since they were important objects used in 2/3 files. I also wanted to cut down on parameters to enhance readability!
 - For some functions consisting of long for-loops, I designated single letters to parameter names - I realize this doesn't make for very readable code, but I opted to do so to make the function more concise. My hope is to add functions to contain/return each for-loop component, making it easier to take in and understand! In the meanwhile, I tried to make my comments thorough so readers can understand the code better!
+- If you played the game a couple of times, you may have noticed the words can sometimes favor horizontal/vertical words - I have a good feeling it's because of the order at which orientations are checked and added into the valid orientations array. In a future version, randomizing this process would ideally fix this problem and make the distribution of paths more even!
 
 ## Credit is due!
 
