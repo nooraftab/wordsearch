@@ -10,7 +10,7 @@ First things first! [Click here](http://htmlpreview.github.io/?https://github.co
 
 Now look at that hunk of letters! Scroll down and you'll see a handy little table full of words - your task is to find all of them! Put on your eagle eyes and start scanning the grid. 
 
-When you see something that looks like it might be a word (or if you just feel like it - I can't tell you how to live your life), click and drag to select the letters you want in the particular direction you'd like (the directions are highlighted so you can see it easy!).
+When you see something that looks like it might be a word (or if you just feel like it - I can't tell you how to live your life), left-click and drag to select the letters you want in the particular direction you'd like (the directions are highlighted so you can see it easy!).
 
 Let go of the mouse whenever you're ready and if you're in luck, the selected letters will outline themselves to show they've been found.
 
