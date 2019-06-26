@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 
 <html>
-	
-	<head>
-		
+	<head>	
 		<meta charset="utf-8">
-
 		<title>Noor's Word Search Game!</title>
-
-
 	</head>
-
 	<body>
-
 		<h1>Noor's Word Search Game!</h1>
 		<h2 id = "instructions"></h2>
 		<h3 id = "themeIntro">The theme is: <span id = "wordTheme"></span></h3>
@@ -31,17 +24,11 @@
 		<script src = "js/wordsearchlogic.js"></script>
 		<script src = "js/wordsearchview.js"></script>
 
-		<script>
-			
+		<script>	
 			$(document).ready( function() {
-
 				new WordSearchController("#wordboard", "#wordlist", "#solveButton", "#newGameButton", "#instructions", 
 					"#wordTheme");
-			
 			})
-
 		</script>
-
 	</body>
-
 </html>
