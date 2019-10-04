@@ -4,7 +4,7 @@ This application allow's one to play a word search (or word find) game in a brow
 
 ## Setting up
 
-First things first! [Click here](http://htmlpreview.github.io/?https://github.com/nooraftab/wordsearch/blob/master/wordsearch.html) to open the game in your browser!
+First things first! [Click here](https://rawgit.com/nooraftab/wordsearch/master/wordsearch.html) to open the game in your browser!
 
 ## Playing
 
